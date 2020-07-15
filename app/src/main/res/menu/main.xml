@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <item
+         android:title="@string/title_home"
+         android:id="@id/home"
+         android:icon="@drawable/bnavigation"
+         android:checked="true"
+         android:menuCategory="secondary"/>
+
+    <item
+        android:title="@string/title_dashboard"
+        android:id="@id/about"
+        android:checked="true"
+        android:icon="@drawable/snavigation"
+        android:menuCategory="secondary"/>
+
+    <item
+        android:title="@string/title_notifications"
+        android:id="@id/bookmark"
+        android:checked="true"
+        android:icon="@drawable/fnavigation"
+        android:menuCategory="secondary"/>
+
+</menu>

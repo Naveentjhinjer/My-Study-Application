@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Learning Java</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Register</string>
+    <string name="menu_slideshow">Account</string>
+    <string name="course">Course Search</string>
+    <string name="com">Communicate</string>
+    <string name="feedback">Feedback</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Feedback</string>
+</resources>
